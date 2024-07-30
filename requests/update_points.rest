@@ -1,0 +1,7 @@
+PATCH http://localhost:3001/api/users/669e6ef4610bf525264d73a2
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNhcmxvcyIsImlkIjoiNjY5ZTZlZjQ2MTBiZjUyNTI2NGQ3M2EyIiwiaWF0IjoxNzIxNjcwMTAxfQ.z4SFlF3IRAnfUBpAST3s8vcjta9QEtUu_zPhwzMw1HA
+
+{
+    "points": 1
+}
