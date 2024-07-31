@@ -26,7 +26,7 @@ Link to website - https://looking-for-focus.onrender.com/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=40 height=40 title="nodejs" alt="nodejs" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=40 height=40 title="mongodb" alt="mongodb" />&nbsp;
 
-#### website hosting
+#### Website hosting
 - render
 
 <br/>
@@ -40,8 +40,8 @@ From there, you will gradually earn points. If you are logged in to an account, 
 #### Create a new account
 To create a new account, you need to click on the profile icon:
 
-<img src='./dist/assets/person-circle-outline-light-fyqLruRZ.png' width=40 height=40 title="light profile icon" alt="light profile icon" />
-<img src='./dist/assets/person-circle-outline-dark-DTKFq1cS.png' width=40 height=40 title="dark profile icon" alt="dark profile icon" />
+<img src='./dist/assets/person-circle-outline-light-fyqLruRZ.png' width=40 height=40 title="light profile icon" alt="light profile icon" />&nbsp;
+<img src='./dist/assets/person-circle-outline-dark-DTKFq1cS.png' width=40 height=40 title="dark profile icon" alt="dark profile icon" />&nbsp;
 
 A window will open. You can then click on _Register_ to create an account.
 
