@@ -6,7 +6,7 @@
 
 by **Cauber Streck**
 
-<img src='./dist/icon.png' width=100 height=100 />
+<img src='./dist/icon.png' width=100 height=100 title="coffee" alt="coffee" />
 
 Link to website - https://looking-for-focus.onrender.com/
 
@@ -22,9 +22,9 @@ Link to website - https://looking-for-focus.onrender.com/
 
 ### Tecnologies
 #### Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40 title="react" alt="react" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=40 height=40 title="nodejs" alt="nodejs" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=40 height=40 title="mongodb" alt="mongodb" />&nbsp;
 
 #### website hosting
 - render
@@ -40,8 +40,8 @@ From there, you will gradually earn points. If you are logged in to an account, 
 #### Create a new account
 To create a new account, you need to click on the profile icon:
 
-<img src='./dist/assets/person-circle-outline-light-fyqLruRZ.png' width=40 height=40 />
-<img src='./dist/assets/person-circle-outline-dark-DTKFq1cS.png' width=40 height=40 />
+<img src='./dist/assets/person-circle-outline-light-fyqLruRZ.png' width=40 height=40 title="light profile icon" alt="light profile icon" />
+<img src='./dist/assets/person-circle-outline-dark-DTKFq1cS.png' width=40 height=40 title="dark profile icon" alt="dark profile icon" />
 
 A window will open. You can then click on _Register_ to create an account.
 
@@ -61,5 +61,3 @@ When you log in, all the points you earn while studying will be saved to your ac
 <br/>
 
 > enjoy the application and good luck with your studies!
-
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=50 height=50 /> -->
